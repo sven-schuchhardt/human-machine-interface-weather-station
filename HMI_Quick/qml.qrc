@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LiveDataPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>SettingsItem.qml</file>
+        <file>SettingsItemButtons.qml</file>
+        <file>LiveDataList.qml</file>
+        <file>LiveDataBarChart.qml</file>
+        <file>BarChart.qml</file>
+    </qresource>
+</RCC>
